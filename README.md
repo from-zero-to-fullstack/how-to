@@ -14,6 +14,7 @@ Find the documentation below 👇
 | Sign GIT commits | The only possible way to prove that a commit is actually yours is by signing your GIT commits ✍️ | [📄](./Documentation/sign-git-commits.md) |
 | Clone a repository | All projects start here | [📄](./Documentation/clone-repository.md) |
 | Development workflow | Simple steps to help you developing like a master 👩‍💻 | [📄](./Documentation/development-workflow.md) |
+| Merge conflicts | Are you trying to create a Pull Request but a red warning message appear saying that you got conflicts into merging process?Consult the documentation and you will be able to fix this 💪 | [📄](./Documentation/merge-conflicts.md) |
 
 # Contribution
 
