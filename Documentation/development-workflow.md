@@ -13,6 +13,10 @@ A[Create branch] -->B(Commit) -->C(Push) -->D(Pull Request)
 
 ## Steps
 
+1. Fetch
+
+1. Pull
+
 1. Create a new branch (from development branch) and categorize it
    - feature
    - bugfix
