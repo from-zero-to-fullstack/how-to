@@ -11,6 +11,7 @@ Find the documentation below 👇
 | Topic | Notes | Documentation |
 | -- | -- | -- |
 | Configure Fork | A fast and friendly GIT client | [📄](./Documentation/configure-fork.md) |
+| Sign GIT commits | The only possible way to prove that a commit is actually yours is by signing your GIT commits ✍️ | [📄](./Documentation/sign-git-commits.md) |
 
 # Contribution
 
