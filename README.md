@@ -15,6 +15,7 @@ Find the documentation below 👇
 | Clone a repository | All projects start here | [📄](./Documentation/clone-repository.md) |
 | Development workflow | Simple steps to help you developing like a master 👩‍💻 | [📄](./Documentation/development-workflow.md) |
 | Merge conflicts | Are you trying to create a Pull Request but a red warning message appear saying that you got conflicts into merging process?Consult the documentation and you will be able to fix this 💪 | [📄](./Documentation/merge-conflicts.md) |
+| Initalize a node project | When you want to use a package in your code or just run a script in the terminal, you need to initialize node in your project | [📄](./Documentation/initialize-node.md) |
 
 # Contribution
 
